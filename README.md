@@ -1,4 +1,4 @@
-### Hi there 👋
+### idk how you ended up here
 
 <!--
 **SherlockSec/SherlockSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - Wannabe Security Professional
+ - 1st Year Cyber Security and Digital Forensics Student @ University of Portsmouth
+
+![Twitter Follow](https://img.shields.io/twitter/follow/sherlocksec)
